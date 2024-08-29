@@ -85,6 +85,7 @@ tbody.gateways-tbody tr td {
   }
   .gateway-logo {
     width: 60px;
+    height: 60px;
   }
   .td-left {
     text-align: left !important;
