@@ -156,8 +156,8 @@ const PaymentGateways = () => {
               <table className="details-table-gateways">
                 <tbody className="gateways-tbody">
                   <tr>
-                    <td>Type of Payment Gateway :</td>
-                    <td className="td-left">Integrated Payment Gateway</td>
+                    <td>PayU Payments Gateway Charges in India</td>
+                    <td className="td-left">Annual Maintenance Charge: Zero</td>
                   </tr>
                   <tr>
                     <td>Cashfree Payments Gateway Charges in India:</td>
